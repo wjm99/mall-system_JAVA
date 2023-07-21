@@ -1,3 +1,5 @@
+视频教程： https://github.com/wjm99/mall-system_JAVA/assets/52388996/9a781005-086c-4cb4-9589-72d5099a3827
+
 # mall
 
 <p>
